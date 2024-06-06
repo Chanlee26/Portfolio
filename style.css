@@ -60,7 +60,7 @@ font-weight: 600;
 
  .home{
         height: 100vh;
-        background: url('../1portfolio/images/IMG_6598.jpg');
+        background: url('images/IMG_6598.jpg');
         background-size: cover;
         background-position: center;
         display: flex;
@@ -142,7 +142,7 @@ font-weight: 600;
  
 
 .about{
-    background: url("../1portfolio/images/IMG_6601.jpeg") no-repeat;
+    background: url('images/IMG_6601.jpeg') no-repeat;
     background-size: cover;
     height: 100vh;
     background-position: center;
